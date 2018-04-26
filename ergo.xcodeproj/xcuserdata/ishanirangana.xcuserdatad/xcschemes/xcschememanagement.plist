@@ -7,7 +7,25 @@
 		<key>ergo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>997F6FD91FE51ECC007D9E39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>997F6FED1FE51ECC007D9E39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>997F6FF81FE51ECC007D9E39</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
